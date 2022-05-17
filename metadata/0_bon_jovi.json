@@ -1,0 +1,21 @@
+{
+    "name": "Bon Jovi",
+    "description": "Greatest Hits",
+    "image": "https://ipfs.io/ipfs/QmQjMhMLSkTCbLxE8unVn2BvcLj72Y2XYqqhpupSCoveHh",
+    "attributes": 
+    [
+      {
+      "trait_type": "Livin' On A Prayer",
+      "value": 4.00
+    },
+    {
+      "trait_type": "Always",
+      "value": 6.00
+    },
+    {
+      "trait_type": "It's My Life",
+      "value": 6.20
+    }
+  ]
+  
+}

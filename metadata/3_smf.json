@@ -1,0 +1,21 @@
+{
+  "band": "Stone Metal Fire",
+  "description": "Stone Metal Fire",
+  "image": "https://ipfs.io/ipfs/QmWHh35mpHKL2rYKnoEqjPfjts7TgJwZ9uxrKx9FSomNRp",
+
+  "attributes": [
+    {
+      "trait_type": "Yom",
+      "value": 8.4
+    },
+    {
+      "trait_type": "Pua-Ther",
+      "value": 6.36
+    },
+    {
+      "trait_type": "Nang-Mual",
+      "value": 8.40
+    }
+  
+  ]
+}
