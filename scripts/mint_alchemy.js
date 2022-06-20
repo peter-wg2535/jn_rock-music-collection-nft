@@ -11,7 +11,7 @@ async function main() {
   const rockMusicNFT = new ethers.Contract(process.env.ALCHEMY_MUMBAI_CONTRACT_ADDRESS, abi, signer)
   await rockMusicNFT.mint("https://ipfs.io/ipfs/QmVKwU2miZzK6yEtz1tYukj2xRXDhhaAv9b8nBwVdUsTSq")
 
-  console.log('NFT minted!')
+  console.log('NFT minted by Alchemy API')
 }
 
 main()

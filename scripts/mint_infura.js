@@ -10,7 +10,7 @@ async function main() {
 
   const rockMusicNFT = new ethers.Contract(process.env.INFURA_ROPSTEN_CONTRACT_ADDRESS, abi, signer)
   await rockMusicNFT.mint("https://ipfs.io/ipfs/QmUDGNKP3kJxhV86m63e31mvtzG7UCtgxqJADFSWdXgE2c")
-  console.log('NFT minted!')
+  console.log('NFT minted by Influra API')
 }
 
 main()
