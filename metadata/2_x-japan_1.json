@@ -1,0 +1,22 @@
+{
+    "band": "X-JAPAN 1",
+    "album": "Ballad Collection",
+    "genre": "Ballad Rock",
+    "year": 1997,
+    "image": "https://ipfs.io/ipfs/QmSxba8y3MEwov3hzsjp1CsDARGeZPjzZsn7XLWAPRLrqs",
+
+    "songs": [{
+        "name": "Forever Love",
+        "value": 8.4
+      },
+      {
+        "name": "Endless Rain",
+        "value": 6.36
+      },
+      {
+        "name": "Say Anything",
+        "value": 8.40
+      }
+    
+    ]
+}
